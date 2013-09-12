@@ -1,0 +1,32 @@
+.ajam-overlay-container
+
+  &.enabled
+    overflow: visible
+    position: relative
+    width: 320px
+    height: 600px
+
+    .ajam-overlay-hp, .ajam-overlay-overlay
+      position: absolute
+      top: 0
+      right: 0
+      z-index: 999999
+
+    &.collapsed
+
+      overflow: hidden
+
+      .ajam-overlay-hp
+        display: block
+      .ajam-overlay-overlay
+        display: none
+
+    &.expanded
+      .ajam-overlay-hp
+        display: none
+      .ajam-overlay-overlay
+        display: block
+
+  img, object
+    border: 0
+    outline: 0

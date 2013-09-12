@@ -1,0 +1,96 @@
+﻿ajam_WP_300x600_Base_RY.swf Movie Report
+-----------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       739    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:MetadataDate>2013-09-10T17:18:41-04:00</xmp:MetadataDate> <xmp:ModifyDate>2013-09-10T17:18:41-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:06801174072068118083B221A1861845</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:06801174072068118083B221A1861845</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:CB18007A492068118A6DDD3A517E9046</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:05801174072068118083B221A1861845</stRef:instanceID> <stRef:documentID>xmp.did:73E8A445082068118083CF3324ED8806</stRef:documentID> <stRef:originalDocumentID>xmp.did:CB18007A492068118A6DDD3A517E9046</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          42126          42126    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             36             0                 26405
+
+Symbol                                                                                                                                  Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------------------------------------------------------------------------------------------------------------------    -----------    ----------    ------------------
+300_copy2                                                                                                                                         0           584                     0
+300_copy3                                                                                                                                         0           160                     0
+300_cover                                                                                                                                        25             0                     0
+300_CopyDivider                                                                                                                                  25             0                     0
+300_endCopy                                                                                                                                       0             0                     0
+300_line_TT copy                                                                                                                                 24             0                     0
+300_logo                                                                                                                                        563             0                     0
+300_maskCopy                                                                                                                                     25             0                     0
+728_cta                                                                                                                                          25            42                     0
+arrows                                                                                                                                            0             0                     0
+&#038&#035038&#038&#035035038&#038&#035038&#038&#035035035060Clip Group&#038&#035038&#038&#035035038&#038&#035038&#038&#035035035062              0             0                     0
+&#060Clip Group&#062                                                                                                                            723             0                     0
+Ajam_TT_Vector.ai/Layer 1/<Clip Group>                                                                                                            0             0                     0
+bg_mask                                                                                                                                           0             0                     0
+bgImage                                                                                                                                           0             0                     0
+blinking_mc                                                                                                                                       0             0                     0
+carrots                                                                                                                                           0            22                     0
+colorBG                                                                                                                                           0             0                     0
+copy3                                                                                                                                             0             0                     0
+copy3 copy                                                                                                                                        0             0                     0
+copy4                                                                                                                                             0             0                     0
+copy4 copy                                                                                                                                        0             0                     0
+copy5                                                                                                                                             0           110                     0
+copy6                                                                                                                                             0           107                     0
+copy7                                                                                                                                             0            76                     0
+coverUp                                                                                                                                           0             0                     0
+ClickScreen                                                                                                                                      25             0                     0
+Copy1                                                                                                                                             0             0                     0
+Copy1 copy                                                                                                                                        0             0                     0
+Copy2                                                                                                                                             0             0                     0
+Copy2 copy                                                                                                                                        0             0                     0
+CopyDivider                                                                                                                                       0             0                     0
+CopyDivider copy                                                                                                                                 25             0                     0
+Cta                                                                                                                                               0             0                     0
+facebook                                                                                                                                          0             0                     0
+facebook_300                                                                                                                                     39             0                     0
+fbMC                                                                                                                                             88             0                     0
+frame                                                                                                                                             0             0                     0
+frameImage                                                                                                                                        0             0                     0
+frameTxt1                                                                                                                                         0             0                     0
+frameTxt2                                                                                                                                         0             0                     0
+frameTxt3                                                                                                                                         0             0                     0
+gradientMC                                                                                                                                        0             0                     0
+line_TT                                                                                                                                           0             0                     0
+LockupMask                                                                                                                                        0             0                     0
+mask                                                                                                                                              0             0                     0
+replayBtn                                                                                                                                         0             0                     0
+replayBtn_mc                                                                                                                                     24             0                     0
+Screener                                                                                                                                          0             0                     0
+tagline                                                                                                                                         554             0                     0
+top_bg                                                                                                                                            0             0                     0
+tt                                                                                                                                                0             0                     0
+twitter                                                                                                                                           0             0                     0
+twitter_300                                                                                                                                       0             0                     0
+twitterMC                                                                                                                                       125             0                     0
+Tween 1                                                                                                                                           0             0                     0
+yellowBG                                                                                                                                          0             0                     0
+
+Font Name                     Bytes         Characters
+--------------------------    ----------    ----------
+GothamHTF-Medium                     121    >
+MuseoSlab-500Italic Italic          1580     ABDEFIKLMNORSTUVW 
+GothamHTF-Bold Bold                 1253     ACDEFGHIKLMNORSTUW 
+
+ActionScript Bytes    Location
+------------------    --------
+             26405    Scene 1:Frame 1
+
+Bitmap                Compressed    Original      Compression
+------------------    ----------    ----------    -----------
+red_300x300.jpg             3980        360000    JPEG Quality=95
+yellow_300x300.jpg          2569        360000    JPEG Quality=95
+replayBtn.png                241          1296    Lossless
+
+
+
+

@@ -1,0 +1,39 @@
+/* line 3, ../sass/style.sass */
+.ajam-overlay-container.enabled {
+  overflow: visible;
+  position: relative;
+  width: 320px;
+  height: 600px;
+}
+/* line 9, ../sass/style.sass */
+.ajam-overlay-container.enabled .ajam-overlay-hp, .ajam-overlay-container.enabled .ajam-overlay-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 999999;
+}
+/* line 15, ../sass/style.sass */
+.ajam-overlay-container.enabled.collapsed {
+  overflow: hidden;
+}
+/* line 19, ../sass/style.sass */
+.ajam-overlay-container.enabled.collapsed .ajam-overlay-hp {
+  display: block;
+}
+/* line 21, ../sass/style.sass */
+.ajam-overlay-container.enabled.collapsed .ajam-overlay-overlay {
+  display: none;
+}
+/* line 25, ../sass/style.sass */
+.ajam-overlay-container.enabled.expanded .ajam-overlay-hp {
+  display: none;
+}
+/* line 27, ../sass/style.sass */
+.ajam-overlay-container.enabled.expanded .ajam-overlay-overlay {
+  display: block;
+}
+/* line 30, ../sass/style.sass */
+.ajam-overlay-container img, .ajam-overlay-container object {
+  border: 0;
+  outline: 0;
+}

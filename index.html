@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <title>Overlay</title>
+  </head>
+  <body>
+
+    <!-- use base: <%= urls.css %> -->
+    <!-- build:css css/style.min.css -->
+    <script src="css/style.css"></script>
+    <!-- endbuild -->
+
+    <!-- overlay wrapper code begin -->
+    <div class="ajam-overlay-container collapsed">
+      <div class="ajam-overlay-hp"></div>
+      <div class="ajam-overlay-overlay"></div>
+    </div>
+    <!-- overlay wrapper code end -->
+
+    <!-- use base: <%= urls.js %> -->
+    <!-- build:js js/plugins.min.js -->
+    <script src="bower_components/yepnope/yepnope.1.5.4-min.js"></script>
+    <!-- endbuild -->
+
+    <script>
+
+      (function(){
+
+        //console fallback
+        var console = window.console || { log: function(){} };
+
+        // timeout to ensure above scripts have loaded
+        var dfpTimeout = setTimeout(function(){
+          yepnope({
+            test: window.jQuery,
+            nope: 'http://js.washingtonpost.com/wpost/js/combo?token=20121010232000&c=true&m=true&context=eidos&r=/jquery-1.7.1.js',
+            load: [
+              '<%= urls.js %>js/overlay.min.js'
+            ],
+            complete: function(){
+              $(function(){
+                wpAd.ajamOverlay = new wpAd.Overlay({
+                  clickTrack: '<%= clickTrack %>',
+                  clickTrackEsc: '<%= clickTrackEsc %>',
+                  auto: true,
+                  autoCloseTimeout: 7000,
+                  minFlashVer: 9,
+                  container: '.ajam-overlay-container',
+                  hpContainer: '.ajam-overlay-hp',
+                  overlayContainer: '.ajam-overlay-overlay',
+                  tracking: {
+                    expand: 'exppix',
+                    collapse: 'colpix'
+                  },
+                  creative: {
+                    halfpage: {
+                      url: '<%= urls.www %>swf/hp.swf',
+                      id: 'ajam_hp',
+                      width: '300',
+                      height: '600',
+                      clickTag: [
+                        'http://example.com',
+                        'http://example.com?2',
+                        'http://example.com?3',
+                        'http://example.com?4'
+                      ],
+                      backup: '<%= urls.www %>img/backup.png'
+                    },
+                    overlay: {
+                      url: '<%= urls.www %>swf/overlay.swf',
+                      id: 'ajam_overlay',
+                      width: '1000',
+                      height: '600',
+                      clickTag: [
+                        'http://www.google.com',
+                        'http://www.google.com?2',
+                        'http://www.google.com?3',
+                        'http://www.google.com?4'
+                      ]
+                    }
+                  }
+                });
+              });
+            }
+          });
+        }, 500);
+
+      })();
+
+    </script>
+
+  </body>
+</html>

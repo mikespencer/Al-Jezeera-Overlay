@@ -1,0 +1,99 @@
+﻿ajam_WP_1000x600_Overlay_Carl_7sec.swf Movie Report
+----------------------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       952    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:MetadataDate>2013-09-10T17:18:38-04:00</xmp:MetadataDate> <xmp:ModifyDate>2013-09-10T17:18:38-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:03801174072068118083B221A1861845</stRef:instanceID> <stRef:documentID>xmp.did:957CEE50202068118083CF3324ED8806</stRef:documentID> <stRef:originalDocumentID>xmp.did:91239D79142068118A6DDD3A517E9046</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:04801174072068118083B221A1861845</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:04801174072068118083B221A1861845</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:91239D79142068118A6DDD3A517E9046</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          90068          90068    Scene 1 (AS 3.0 Classes Export Frame)
+      2             12          90080    
+      3              1          90081    
+      4              1          90082    
+      5              1          90083    
+      6              1          90084    
+      7              1          90085    
+      8              1          90086    
+      9          10786         100872    
+     10              1         100873    
+     11              1         100874    
+     12              1         100875    
+     13              1         100876    
+     14              1         100877    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             33             0                 33501
+
+Symbol                                                                                                                                  Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------------------------------------------------------------------------------------------------------------------    -----------    ----------    ------------------
+300_copy2                                                                                                                                         0             0                     0
+300_copy3                                                                                                                                         0             0                     0
+300_cover                                                                                                                                        30             0                     0
+300_CopyDivider                                                                                                                                  32             0                     0
+300_endCopy                                                                                                                                       0             0                     0
+300_line_TT copy                                                                                                                                  0             0                     0
+300_logo                                                                                                                                        726             0                     0
+300_maskCopy                                                                                                                                      0             0                     0
+728_cta                                                                                                                                          32            54                     0
+&#038&#035038&#038&#035035038&#038&#035038&#038&#035035035060Clip Group&#038&#035038&#038&#035035038&#038&#035038&#038&#035035035062              0             0                     0
+&#060Clip Group&#062                                                                                                                            931             0                     0
+Ajam_TT_Vector.ai/Layer 1/<Clip Group>                                                                                                            0             0                     0
+bg_mask                                                                                                                                           0             0                     0
+bgImage                                                                                                                                           0             0                     0
+blinking_mc                                                                                                                                       0             0                     0
+closeButton                                                                                                                                      31             0                     0
+carrots                                                                                                                                           0            28                     0
+colorBG                                                                                                                                           0             0                     0
+colorBG copy                                                                                                                                      0             0                     0
+copy3 copy                                                                                                                                        0             0                     0
+copy4 copy                                                                                                                                        0             0                     0
+copy5                                                                                                                                             0           143                     0
+copy6                                                                                                                                             0           140                     0
+copy7                                                                                                                                             0            62                     0
+ClickScreen                                                                                                                                      33             0                     0
+Copy1 copy                                                                                                                                        0             0                     0
+Copy2 copy                                                                                                                                        0             0                     0
+CopyDivider copy                                                                                                                                 32             0                     0
+facebook_300                                                                                                                                     51             0                     0
+fbMC                                                                                                                                            113             0                     0
+frame                                                                                                                                            53             0                     0
+frameImage                                                                                                                                        0             0                     0
+frameTxt1                                                                                                                                         0           136                     0
+frameTxt2                                                                                                                                         0             0                     0
+frameTxt3                                                                                                                                         0             0                     0
+gradientMC                                                                                                                                       49             0                     0
+line_TT                                                                                                                                          31             0                     0
+mask                                                                                                                                              0             0                     0
+mask copy                                                                                                                                        33             0                     0
+Symbol 1                                                                                                                                          0            53                     0
+Symbol 2                                                                                                                                          0           251                     0
+tagline                                                                                                                                         713             0                     0
+tt                                                                                                                                                0             0                     0
+twitter_300                                                                                                                                       0             0                     0
+twitterMC                                                                                                                                       161             0                     0
+x_mc                                                                                                                                             57             0                     0
+yellowBG                                                                                                                                          0             0                     0
+
+Font Name                      Bytes         Characters
+---------------------------    ----------    ----------
+GothamHTF-Bold Bold                  1352     ACDEGHIKLNORTUW 
+Rockwell-CondensedBold Bold           347    “”
+MuseoSlab-500Italic Italic           2364     .ABCEGHIKMNOPRSTUVW 
+GothamHTF-Medium                      156    >
+
+ActionScript Bytes    Location
+------------------    --------
+             33501    Scene 1:Frame 1
+
+Bitmap                                      Compressed    Original      Compression
+----------------------------------------    ----------    ----------    -----------
+AJAM_WashPost_overlay_1000x600_CARL2.jpg         51426       1641816    JPEG Quality=80
+AJAM_WashPost_overlay_1000x600_RedBG.jpg          4534       1550736    JPEG Quality=80
+
+
+
+
