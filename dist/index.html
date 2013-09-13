@@ -25,7 +25,7 @@
         //console fallback
         var console = window.console || { log: function(){} };
 
-        // timeout to ensure above scripts have loaded
+        // timeout to ensure above scripts have loaded - Bug with DFP script loading order.
         var dfpTimeout = setTimeout(function(){
           yepnope({
             test: window.jQuery,
